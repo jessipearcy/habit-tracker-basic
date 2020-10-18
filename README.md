@@ -1,6 +1,8 @@
 # HabitTracker
 
-Visit https://stackblitz.com/edit/habit-tracker-basic?file=src/app/app.component.html to see the demo!
+Tutorial: [Learn Angular Basics by Building a Simple App Using Angular Material](https://medium.com/better-programming/learn-angular-basics-by-building-a-simple-app-using-angular-material-9bbc19aa33cf)
+
+[Stackblitz Demo](https://stackblitz.com/edit/habit-tracker-basic?file=src/app/app.component.html)
 
 ## Development server
 
